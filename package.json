@@ -1,0 +1,16 @@
+{
+  "name": "taj-data-specs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umar Alyahya <umar.alyahya@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^15.12.5",
+    "http": "0.0.1-security",
+    "url": "^0.11.0"
+  }
+}

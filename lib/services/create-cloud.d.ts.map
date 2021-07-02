@@ -1,0 +1,1 @@
+{"version":3,"file":"create-cloud.d.ts","sourceRoot":"","sources":["../../src/services/create-cloud.ts"],"names":[],"mappings":"AACA,yBAAiB,WAAW,CAAC;IAErB,KAAY,MAAM,GAAG;QACb,EAAE,EAAE,MAAM,CAAA;QACV,GAAG,EAAE,MAAM,CAAA;KAClB,CAAA;IACD,KAAY,MAAM,GAAG;QACb,KAAK,CAAC,EAAE,MAAM,CAAA;KACrB,CAAA;CACR"}

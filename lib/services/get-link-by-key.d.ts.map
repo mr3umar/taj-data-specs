@@ -1,0 +1,1 @@
+{"version":3,"file":"get-link-by-key.d.ts","sourceRoot":"","sources":["../../src/services/get-link-by-key.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,IAAI,EAAE,MAAM,SAAS,CAAA;AAE9B,yBAAiB,YAAY,CAAC;IAEtB,KAAY,MAAM,GAAG;QACb,GAAG,EAAE,MAAM,CAAA;KAClB,CAAA;IACD,KAAY,MAAM,GAAG;QACb,MAAM,CAAC,EAAE;YACD,IAAI,EAAE,IAAI,CAAA;SACjB,CAAC;QACF,KAAK,CAAC,EAAE,MAAM,CAAA;KACrB,CAAA;CACR"}

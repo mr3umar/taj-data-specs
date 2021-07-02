@@ -1,0 +1,1 @@
+{"version":3,"file":"install-app.d.ts","sourceRoot":"","sources":["../../src/services/install-app.ts"],"names":[],"mappings":"AACA,yBAAiB,UAAU,CAAC;IAEpB,KAAY,MAAM,GAAG,EAAE,CAAA;IACvB,KAAY,MAAM,GAAG;QACb,MAAM,CAAC,EAAE,EAAE,CAAC;QACZ,KAAK,CAAC,EAAE,MAAM,CAAA;KACrB,CAAA;CACR"}

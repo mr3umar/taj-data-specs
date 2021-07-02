@@ -1,0 +1,1 @@
+{"version":3,"file":"create-collection.d.ts","sourceRoot":"","sources":["../../src/services/create-collection.ts"],"names":[],"mappings":"AACA,yBAAiB,gBAAgB,CAAC;IAE1B,KAAY,MAAM,GAAG;QACb,GAAG,EAAE,MAAM,CAAC;QACZ,KAAK,EAAE,MAAM,CAAA;KACpB,CAAA;IACD,KAAY,MAAM,GAAG;QACb,MAAM,CAAC,EAAE;YACD,YAAY,EAAE,MAAM,CAAA;SAC3B,CAAC;QACF,KAAK,CAAC,EAAE,MAAM,CAAA;KACrB,CAAA;CACR"}

@@ -1,0 +1,30 @@
+{
+    "compilerOptions": {
+      "target": "es6",                          
+      "module": "commonjs",                     
+      "declaration": true,                  
+      "declarationMap": true,
+      "outDir": "./lib",                    
+      "rootDir": "./src",  
+      "lib": ["es5", "es6", "dom", "esnext.asynciterable"],
+      "strict": true ,
+      "noImplicitAny": true,
+      "removeComments": true,
+      // "baseUrl": "../",
+      // "paths" : {
+      //   "lib/*": ["./lib/js/*"]
+      // },
+      // "watch": true,
+      "strictNullChecks": true,
+      // "composite": true, //Referenced projects must have the new composite setting enabled.
+    },
+    "include": ["./src/**/*"],
+    // "exclude": [
+    //   // "node_modules",
+    //   "lib"
+    // ],
+    "declarationMap": true,// it switch user to the source TS file insted of compiled file (.d.js)
+    "references": [
+      // { "path": "../base-app" }
+    ]
+  }
